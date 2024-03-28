@@ -3,6 +3,6 @@ let variavel2 = 3
 const variavel3= 8
 
 console.log
-("Olá mundo!")
+("Olá mundo!") //Console log
 
 console.log(variavel3 + variavel2)
